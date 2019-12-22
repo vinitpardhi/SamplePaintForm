@@ -1,0 +1,5 @@
+F:\VK\dotnet\Day3\IndiaCitizenPortal\BankingLibrary\bin\Debug\BankingLibrary.dll
+F:\VK\dotnet\Day3\IndiaCitizenPortal\BankingLibrary\bin\Debug\BankingLibrary.pdb
+F:\VK\dotnet\Day3\IndiaCitizenPortal\BankingLibrary\obj\Debug\BankingLibrary.csprojAssemblyReference.cache
+F:\VK\dotnet\Day3\IndiaCitizenPortal\BankingLibrary\obj\Debug\BankingLibrary.dll
+F:\VK\dotnet\Day3\IndiaCitizenPortal\BankingLibrary\obj\Debug\BankingLibrary.pdb

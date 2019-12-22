@@ -1,0 +1,13 @@
+F:\VK\dotnet\Day3\IndiaCitizenPortal\IndianCitizedPortal\bin\Debug\IndianCitizedPortal.exe.config
+F:\VK\dotnet\Day3\IndiaCitizenPortal\IndianCitizedPortal\bin\Debug\IndianCitizedPortal.exe
+F:\VK\dotnet\Day3\IndiaCitizenPortal\IndianCitizedPortal\bin\Debug\IndianCitizedPortal.pdb
+F:\VK\dotnet\Day3\IndiaCitizenPortal\IndianCitizedPortal\bin\Debug\BankingHandlers.dll
+F:\VK\dotnet\Day3\IndiaCitizenPortal\IndianCitizedPortal\bin\Debug\BankingLibrary.dll
+F:\VK\dotnet\Day3\IndiaCitizenPortal\IndianCitizedPortal\bin\Debug\GovtLibrary.dll
+F:\VK\dotnet\Day3\IndiaCitizenPortal\IndianCitizedPortal\bin\Debug\BankingHandlers.pdb
+F:\VK\dotnet\Day3\IndiaCitizenPortal\IndianCitizedPortal\bin\Debug\BankingLibrary.pdb
+F:\VK\dotnet\Day3\IndiaCitizenPortal\IndianCitizedPortal\bin\Debug\GovtLibrary.pdb
+F:\VK\dotnet\Day3\IndiaCitizenPortal\IndianCitizedPortal\obj\Debug\IndianCitizedPortal.csprojAssemblyReference.cache
+F:\VK\dotnet\Day3\IndiaCitizenPortal\IndianCitizedPortal\obj\Debug\IndianCitizedPortal.csproj.CopyComplete
+F:\VK\dotnet\Day3\IndiaCitizenPortal\IndianCitizedPortal\obj\Debug\IndianCitizedPortal.exe
+F:\VK\dotnet\Day3\IndiaCitizenPortal\IndianCitizedPortal\obj\Debug\IndianCitizedPortal.pdb

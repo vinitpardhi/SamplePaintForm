@@ -1,0 +1,9 @@
+F:\VK\dotnet\Day3\MyPaintApplication\GraphicsEditor\bin\Debug\GraphicsEditor.exe.config
+F:\VK\dotnet\Day3\MyPaintApplication\GraphicsEditor\bin\Debug\GraphicsEditor.exe
+F:\VK\dotnet\Day3\MyPaintApplication\GraphicsEditor\bin\Debug\GraphicsEditor.pdb
+F:\VK\dotnet\Day3\MyPaintApplication\GraphicsEditor\obj\Debug\GraphicsEditor.csprojAssemblyReference.cache
+F:\VK\dotnet\Day3\MyPaintApplication\GraphicsEditor\obj\Debug\GraphicsEditor.Form1.resources
+F:\VK\dotnet\Day3\MyPaintApplication\GraphicsEditor\obj\Debug\GraphicsEditor.Properties.Resources.resources
+F:\VK\dotnet\Day3\MyPaintApplication\GraphicsEditor\obj\Debug\GraphicsEditor.csproj.GenerateResource.cache
+F:\VK\dotnet\Day3\MyPaintApplication\GraphicsEditor\obj\Debug\GraphicsEditor.exe
+F:\VK\dotnet\Day3\MyPaintApplication\GraphicsEditor\obj\Debug\GraphicsEditor.pdb
